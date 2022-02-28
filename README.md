@@ -29,6 +29,9 @@ BOT_JOIN_LOG_CHANNEL_ID='bar' # Channel ID to be notified
 Execute the following command in a terminal
 
 ```bash
+# install packages
+$ npm install
+# start local server
 $ node index.js
 Bot is online and running in 0 servers!
 ```

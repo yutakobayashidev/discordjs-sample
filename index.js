@@ -26,7 +26,7 @@ client.once("ready", async () => {
     type: "PLAYING",
   });
   console.log(
-    `Bot is online and running in ${client.guilds.cache.size} servers!`
+    `${client.user.tag} is online and running in ${client.guilds.cache.size} servers!`
   );
 });
 

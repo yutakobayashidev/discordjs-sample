@@ -34,7 +34,7 @@ client.on("guildCreate", (guild) => {
   const Embed = new MessageEmbed(guild)
     .setColor([88, 101, 242])
     .setTitle("Server Join Log")
-    .setDescription(`BOT has been added in ${guild.name}`)
+    .setDescription(`${client.user.tag} has been added in ${guild.name}`)
     .addFields(
       {
         name: "Server Name / Server ID",

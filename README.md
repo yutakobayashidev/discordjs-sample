@@ -1,5 +1,11 @@
 # discordjs-sample
 
+<p>
+    <a href="https://discord.gg/HjJCwm5">
+        <img src="https://img.shields.io/discord/911995628018606140?logo=discord"
+            alt="chat on Discord"></a>
+</p>
+
 Discord.js starter kit.
 
 ## Demo
@@ -35,3 +41,7 @@ $ npm install
 $ node index.js
 Bot is online and running in 0 servers!
 ```
+
+## BOT Development Server
+
+https://discord.gg/S2w4tAZCxC

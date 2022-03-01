@@ -1,7 +1,7 @@
 # discordjs-sample
 
 <p>
-    <a href="https://discord.gg/HjJCwm5">
+    <a href="https://discord.gg/S2w4tAZCxC">
         <img src="https://img.shields.io/discord/911995628018606140?logo=discord"
             alt="chat on Discord"></a>
 </p>
